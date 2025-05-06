@@ -1,6 +1,6 @@
 ![Screenshot 2025-05-06 151241](https://github.com/user-attachments/assets/a7b98bf5-d795-4c09-9131-58069ced48df)
 
-# Hi 👋, I'm Shweta
+# Hi, I'm Shweta🤗
 🌟 A Passionate Tech Enthusiast | Web Developer | Data Explorer
 
 - 🌐 Building responsive web apps and managing databases
