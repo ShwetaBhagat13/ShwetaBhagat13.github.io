@@ -1,17 +1,12 @@
-![Header](https://your-header-image-url-here)
+![Screenshot 2025-05-06 151241](https://github.com/user-attachments/assets/a7b98bf5-d795-4c09-9131-58069ced48df)
 
 # Hi 👋, I'm Shweta
-A passionate Tech Enthusiast and Explorer!!
+🌟 A Passionate Tech Enthusiast | Web Developer | Data Explorer
 
----
-
-🌟 **Tech Enthusiast | Web Developer | Data Explorer**
-
-- 🌐 Craft responsive web apps with **HTML, CSS, JavaScript, Node.js, Express.js, React**
-- 💻 Manage databases with **MySQL**
-- 📊 Build data-driven dashboards using **Excel, Google Sheets, Power BI**
-- 🎨 Design creatives & presentations with **Canva, Microsoft Word, Excel, PowerPoint**
-- ⚡Quick Fact: I can optimize anything!
+- 🌐 Building responsive web apps and managing databases
+- 📊 Turning data into insights with dashboards
+- 🎨 Creating impactful designs and presentations
+- ⚡Fun Fact: I can optimize anything!
 
 ---
 
